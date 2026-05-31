@@ -1,0 +1,2 @@
+# Basic-Document-Q-A-Bot-RAG-Pipeline-
+I  WORKED WITH RAG BAESD DOCUMENT AI CHAT BOT
